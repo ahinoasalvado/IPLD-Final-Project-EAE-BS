@@ -73,3 +73,4 @@ if isinstance(max_height, int) and isinstance(max_width, int):
 else:
     st.subheader("⚠️ Error detecting image dimensions.")
 
+# Write "stramlit run image_cropper.py" in your terminal to run the code in an external browser. 
